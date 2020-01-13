@@ -131,13 +131,13 @@ input:focus {
     Global
 */
 .garden-set-pd {
-  padding: 100px 0; }
+  padding: 30px 0; }
 
 .garden-set-pd-sm {
   padding: 60px 0; }
 
 .garden-set-pd-sm-lg {
-  padding: 60px 0 100px 0; }
+  padding: 30px 0 50px 0; }
 
 .garden-none-pd-top {
   padding-top: 0; }
@@ -866,7 +866,7 @@ input:focus {
           top: 50%;
           right: 10px; }
       .header-v1 .header .main-menu li .sub-menu, .header-v2 .header .main-menu li .sub-menu, .header-v3 .header .main-menu li .sub-menu, .header-v5 .header .main-menu li .sub-menu, .header-v4 .header .main-menu li .sub-menu {
-        width: 200px;
+        width: 250px;
         padding-top: 15px;
         background: #ffffff;
         border-top: 3px solid #64a507;
